@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-181825?style=for-the-badge&logo=linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/chanakya-chowdary-vasantha-081a00222)](www.linkedin.com/in/shiva8874)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-181825?style=for-the-badge&logo=linkedin&logoColor=0A66C2&link=https://https://www.linkedin.com/in/shiva8874/))](www.linkedin.com/in/shiva8874)
 [![Gmail Badge](https://img.shields.io/badge/gmail-181825?style=for-the-badge&logo=gmail&logoColor=EA4335&link=mailto:chanakyavasantha@gmail.com)](mailto:learningdsiiit@gmail.com)
 
 
