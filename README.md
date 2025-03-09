@@ -5,14 +5,12 @@
 
 <h4 align="center">Feel free to connect with me here:</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shiva9565&label=Profile%20views&color=0e75b6&style=flat" alt="Shiva9565" /> </p>
-
-
 <div align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-181825?style=for-the-badge&logo=linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/shiva8874)](https://www.linkedin.com/in/shiva8874)
 [![Gmail Badge](https://img.shields.io/badge/gmail-181825?style=for-the-badge&logo=gmail&logoColor=EA4335&link=mailto:learningdsiiit@gmail.com)](mailto:learningdsiiit@gmail.com)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shiva9565&label=Profile%20views&color=0e75b6&style=flat" alt="Shiva9565" /> </p>
 
 ## Technology Stack:
 
