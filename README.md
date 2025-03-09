@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shiva</h1>
-<h3 align="center">A passionate Data Scientist and Machine Learning Enthusiast</h3>
+<h3 align="center">Pre-Final Year B-Tech student from IIIT Chennai and Data Science enthusiast</h3>
 
 
 <h4 align="center">Feel free to connect with me here:</h4>
